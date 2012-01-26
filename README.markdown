@@ -24,6 +24,7 @@ Pre-requisites
 If you ran the install in step 1 skip to "Creating a New Node Application"
 * make sure to run Powershell as Administrator
 * Run in the local emulator if your account is not set up yet
+* note that unlike heroku you push the node_modules associated with your project
 
 I like to add names to each of the commands
 
